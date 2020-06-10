@@ -7,8 +7,7 @@ This application is a workout tracker. It allows a user to view, create, and tra
 1. [Technologies](#technologies)
 2. [Usage](#usage)
 3. [License](#license)
-4. [Contributing](#contributing)
-5. [Questions](#questions)
+
 
 ## Technologies
 
