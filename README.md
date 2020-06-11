@@ -21,7 +21,7 @@ This application is a workout tracker. It allows a user to view, create, and tra
 
 <p id='usage'></p>
 
-- Navigate to
+- Navigate to https://thawing-badlands-44742.herokuapp.com/?id=5ee17287ad6edb00177a9bf0
 - Enter a workout (either cardio or resistance) along with all other parameters listed on the page (e.g. name, sets, reps, etc.)
 - Click "Fitness Tracker Dashboard" in the upper left-hand corner to view graphs detailing your workouts
 
