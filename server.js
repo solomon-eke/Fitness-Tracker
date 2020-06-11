@@ -14,7 +14,7 @@ app.use(express.json())
 
 app.use(express.static('public'))
 
-mongoose.connect(process.env.MONGODB_URI || 'mongodb://localhost/workout', {
+mongoose.connect(process.env.MONGODB_URI || 'mongodb://user:password@ds141168.mlab.com:41168/heroku_fgg6k2jt', {
   useNewUrlParser: true
 })
 
